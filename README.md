@@ -31,7 +31,7 @@ I am a beginner Full Stack Web Developer with a strong interest in building webs
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdul-Mutaleb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdul-mutaleb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/17N8AVSDNE/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_talk2abdullah?igsh=MTZobW42NG13dWxx/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Mutaleb)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Mutaleb)](https://github.com/Abdul-Mutaleb)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Mutaleb&show_icons=true&count_private=true)  
 
