@@ -21,7 +21,8 @@ I am a beginner Full Stack Web Developer with a strong interest in building webs
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about FULL full-stack web DEVELOPER 
 ### 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=your-repo-name&theme=radical)]([https://github.com/Abdul-Mutaleb/laravel12-react-E-comarce]([https://github.com/Abdul-Mutaleb/online_traffic_offense_management_system)])(https://github.com/shajibulhasan/online-traffic-offense-management-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=online_traffic_offense_management_system&theme=radical)](https://github.com/Abdul-Mutaleb/online_traffic_offense_management_system)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=your-repo-name&theme=radical)](https://github.com/Abdul-Mutaleb/online_traffic_offense_management_system )
 
