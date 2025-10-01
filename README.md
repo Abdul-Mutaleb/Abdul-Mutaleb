@@ -1,5 +1,4 @@
-![FULL STACK WEB DEVELOPER | LARAVEL • REACT.JS • PHP • BOOTSTRAP • MYSQL]
-(https://media.licdn.com/dms/image/v2/D5616AQGL6vLT2h-wZA/profile-displaybackgroundimage-shrink_350_1400/B56ZcbK4zOHwAg-/0/1748507529414?e=1762387200&v=beta&t=31uTC-_5Aby-Kq7KNuuMNBty4APgr1iaduybUu9ppb0)
+![FULL STACK WEB DEVELOPER | LARAVEL • REACT.JS • PHP • BOOTSTRAP • MYSQL](https://media.licdn.com/dms/image/v2/D5616AQGL6vLT2h-wZA/profile-displaybackgroundimage-shrink_350_1400/B56ZcbK4zOHwAg-/0/1748507529414?e=1762387200&v=beta&t=31uTC-_5Aby-Kq7KNuuMNBty4APgr1iaduybUu9ppb0)
 ### Hi there 👋, i'm Abdul Mutaleb
 #### FULL STACK WEB DEVELOPER | LARAVEL • REACT.JS • PHP • BOOTSTRAP • MYSQL
 
