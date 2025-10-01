@@ -28,6 +28,7 @@ I am a beginner Full Stack Web Developer with a strong interest in building webs
 
 
 
+
 ![Profile views](https://komarev.com/ghpvc/?username=Abdul-Mutaleb&label=Profile%20views&color=0e75b6&style=flat)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdul-Mutaleb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdul-mutaleb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/17N8AVSDNE/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_talk2abdullah?igsh=MTZobW42NG13dWxx/)  
