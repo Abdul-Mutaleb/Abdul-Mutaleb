@@ -22,3 +22,4 @@ Skills: HTML5/ CSS3/ Bootstrap5/ JavaScript/ react/ php/ laravel/  MySQL
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Abdul-Mutaleb/contributions?format=svg&private=true)  
 
+[![Abdul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Mutaleb&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
