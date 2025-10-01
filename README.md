@@ -24,7 +24,10 @@ I am a beginner Full Stack Web Developer with a strong interest in building webs
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=online_traffic_offense_management_system&theme=radical)](https://github.com/Abdul-Mutaleb/online_traffic_offense_management_system)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=your-repo-name&theme=radical)](https://github.com/Abdul-Mutaleb/online_traffic_offense_management_system )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=online_traffic_offense_management_system&theme=radical)](https://github.com/shajibulhasan/online_traffic_offense_management_system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=laravel12-react-E-commerce&theme=radical)](https://github.com/Abdul-Mutaleb/laravel12-react-E-commerce)
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Abdul-Mutaleb&label=Profile%20views&color=0e75b6&style=flat)
