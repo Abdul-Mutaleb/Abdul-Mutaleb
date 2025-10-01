@@ -22,6 +22,7 @@ I am a beginner Full Stack Web Developer with a strong interest in building webs
 - 💬 Ask me about FULL full-stack web DEVELOPER 
 ### 🚀 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Mutaleb&repo=your-repo-name&theme=radical)](https://github.com/Abdul-Mutaleb/your-repo-name)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Abdul-Mutaleb&label=Profile%20views&color=0e75b6&style=flat)
 
