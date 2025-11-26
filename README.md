@@ -1,9 +1,9 @@
 ![FULL STACK WEB DEVELOPER | LARAVEL • JavaScript • PHP • BOOTSTRAP • MYSQL](https://media.licdn.com/dms/image/v2/D5616AQGL6vLT2h-wZA/profile-displaybackgroundimage-shrink_350_1400/B56ZcbK4zOHwAg-/0/1748507529414?e=1762387200&v=beta&t=31uTC-_5Aby-Kq7KNuuMNBty4APgr1iaduybUu9ppb0)
 ### Hi there 👋, i'm Abdul Mutaleb
-#### FULL STACK WEB DEVELOPER | LARAVEL • REACT.JS • PHP • BOOTSTRAP • MYSQL
+#### FULL STACK WEB DEVELOPER | LARAVEL • JavaScript  • PHP • BOOTSTRAP • MYSQL
 
 
-I am a beginner Full Stack Web Developer with a strong interest in building websites and web applications. I have learned to work with HTML, CSS, Bootstrap, JavaScript, React.js, PHP,  Laravel, and MySQL. I have also used C, C++, and Java in my studies. I enjoy learning new things and solving problems through code. I am looking for an opportunity to start my career and gain real experience in web development.
+I am a beginner Full Stack Web Developer with a strong interest in building websites and web applications. I have learned to work with HTML, CSS, Bootstrap, JavaScript,  PHP,  Laravel, and MySQL. I have also used C, C++, and Java in my studies. I enjoy learning new things and solving problems through code. I am looking for an opportunity to start my career and gain real experience in web development.
  
 ### 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
